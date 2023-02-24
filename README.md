@@ -123,3 +123,8 @@ Open it manually to check if there are the Longitude or latitude columns (could 
 ## Discover More
 If you enjoyed this workshop you can see for more [use cases](https://docs.mapbox.com/mapbox-gl-js/example/) of mapbox GL (check this [this one](https://docs.mapbox.com/mapbox-gl-js/example/dancing-buildings/) which control the city building over the sound of your mic).  
 You can also check the [MapLibre Project](https://maplibre.org/), an open-source fork of the Mapbox GL library.
+
+
+## Jérémy Roux's Notes : 
+I have added a PNG image of a map that shows what the program is doing. It displays a point for each TGV-usable train station in France.
+Each French department has train stations marked in a unique color to differentiate them.
